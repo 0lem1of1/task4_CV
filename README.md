@@ -55,4 +55,3 @@ Submit your Python script and output image via email or upload them to your cour
 Good luck! 🎯
 
 ---
-Answer from Perplexity: pplx.ai/share
