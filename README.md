@@ -48,10 +48,6 @@ Write a Python program that detects a cropped segment in the original image and 
    - [Homography Estimation Guide](https://docs.opencv.org/4.x/d9/dab/tutorial_homography.html)
 
 ---
-
-#### **Submission**
-Submit your Python script and output image via email or upload them to your course portal by **March 26, 2025**.
-
 Good luck! 🎯
 
 ---
